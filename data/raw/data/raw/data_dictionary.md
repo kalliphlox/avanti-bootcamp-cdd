@@ -1,7 +1,5 @@
 # Dicionário de Dados - Diamantes
 
-Abaixo está o dicionário de dados para o conjunto de dados dos diamantes. Ele descreve cada variável presente no dataset.
-
 | **Variável** | **Descrição** | **Tipo** | **Subtipo** |
 |--------------|---------------|----------|-------------|
 | **price**    | Preço do diamante em dólares (variação de $326 a $18,823) | Quantitativa | Contínua |
